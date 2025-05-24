@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel = "stylesheet" href = "style.css">
+</head>
+<body>
+    <div class="container m-3">
+        <h1 class="title">Global Entry Drops</h1>
+
+        <div class="field">
+            <label class="label">Status</label>
+            <span class = "tag is-success" id = "runningSpan">Running</span>
+            <span class = "tag is-danger" id = "stoppedSpan">Stopped</span>
+        </div>
+    </div>
+
+    <div class="container m-3">
+        <div class="field">
+            <lable class="label">Location ID</lable>
+            <div class="select">
+                <select id = "locationId"></select>
+            </div>
+
+            <p id = "locationIdError" class = "help is-danger" style = "display: none;">Please select the valid location.</p>
+        </div>
+
+        <div class="field">
+            <label class = "label">Start Date</label>
+            <div class="control">
+                <input type = "date" class = "input" id = "startDate">
+            </div>
+
+            <p id = "startDateError" class = "help is-danger" style = "display: none;">Please select the valid start date.</p>
+        </div>
+
+        <div class="field">
+            <label class = "label">End Date</label>
+            <div class="control">
+                <input type = "date" class = "input" id = "endDate">
+            </div>
+
+            <p id = "endDateError" class = "help is-danger" style = "display: none;">Please select the valid end date.</p>
+        </div>
+    </div>
+
+    <p id = "rangeError" class = "help is-danger" style = "display:none;">Please ensure the start date is before the end date.</p>
+
+    <div class="container m-3">
+        <button class = "button is-success is-fullwidth" id = "startButton">Save & Start</button>
+        <button class = "button is-danger is-fullwidth" id = "stopButton">Stop</button>
+    </div>
+</body>
+
+<script src = "spacetime.min.js"></script>
+<script src = "popup.js"></script>
+</html>
