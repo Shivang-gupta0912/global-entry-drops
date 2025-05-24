@@ -42,19 +42,19 @@ While creating this clone, I gained hands-on experience with:
 
 Here are some previews of the extension in action:
 
-- **Youtube Tutorial**
+- ### **Youtube Tutorial**
 
 ![Youtube Tutorial](images/Screenshots/Tutorial.png)
 
-- **Extension Popup UI**
+- ### **Extension Popup UI**
 
 ![Extension Popup UI](images/Screenshots/extension-loaded.png)
 
-- **Notification Example**
+- ### **Notification Example**
 
 ![Notification Example](images/Screenshots/notification-example.png)
 
-- **Chrome Extension Loaded**
+- ### **Chrome Extension Loaded**
 
 ![Chrome Extension Loaded](images/Screenshots/extension-loaded.png)
 
