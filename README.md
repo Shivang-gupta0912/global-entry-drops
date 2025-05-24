@@ -44,7 +44,7 @@ Here are some previews of the extension in action:
 
 - **Youtube Tutorial**
 
-![Youtube Tutorial](\images\Screenshots\Tutorial.png)
+![Youtube Tutorial](images/Screenshots/Tutorial.png)
 
 - **Extension Popup UI**
 
