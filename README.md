@@ -48,14 +48,14 @@ Here are some previews of the extension in action:
 
 - **Extension Popup UI**
 
-![Extension Popup UI](images\Screenshots\extension-loaded.png)
+![Extension Popup UI](images/Screenshots/extension-loaded.png)
 
 - **Notification Example**
 
-![Notification Example](images\Screenshots\notification-example.png)
+![Notification Example](images/Screenshots/notification-example.png)
 
 - **Chrome Extension Loaded**
 
-![Chrome Extension Loaded](images\Screenshots\extension-loaded.png)
+![Chrome Extension Loaded](images/Screenshots/extension-loaded.png)
 
 This project greatly improved my understanding of how Chrome extensions work under the hood.
