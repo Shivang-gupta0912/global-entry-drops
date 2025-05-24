@@ -48,7 +48,7 @@ Here are some previews of the extension in action:
 
 - ### **Extension Popup UI**
 
-![Extension Popup UI](images/Screenshots/popup-ui.png)
+![Extension Popup UI](images/Screenshots/Popup-ui.png)
 
 - ### **Notification Example**
 
