@@ -1,4 +1,4 @@
-﻿# Global Entry Drops (Clone) [Video-Link](https://www.linkedin.com/posts/shivang-gupta-838420253_webautomation-browserextension-globalentry-activity-7341184395749281793-4Goh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6IRqwB1YEtfscIQ9LHDpY2qj9IQS7M8CE)
+﻿# Global Entry Drops [Video-Link](https://www.linkedin.com/posts/shivang-gupta-838420253_webautomation-browserextension-globalentry-activity-7341184395749281793-4Goh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6IRqwB1YEtfscIQ9LHDpY2qj9IQS7M8CE)
 
 > ⚠️ **This is a clone project built purely for educational purposes.**  
 > It is based on a tutorial and replicates the core functionality of the original [Global Entry Drops](https://chromewebstore.google.com/detail/global-entry-drops/mljieicmojbnoockkgjfobamclclafmi) Chrome extension.
@@ -59,3 +59,4 @@ Here are some previews of the extension in action:
 ![Chrome Extension Loaded](images/Screenshots/extension-loaded.png)
 
 This project greatly improved my understanding of how Chrome extensions work under the hood.
+
